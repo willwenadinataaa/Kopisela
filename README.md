@@ -2,13 +2,6 @@
 
 Website single page bertema toko kopi yang dibuat untuk memenuhi **Tugas 5 Praktikum**. Kopi Sela adalah kedai fiktif dengan konsep tempat singgah untuk menikmati kopi tanpa terburu-buru.
 
-## Identitas Mahasiswa
-
-- **Nama:** Isi nama lengkap
-- **NIM:** Isi NIM
-
-> Silakan ganti bagian identitas di atas sebelum repository dikumpulkan.
-
 ## Tujuan Website
 
 Website ini dibuat untuk menerapkan komponen **carousel/sliding banner**, navbar dengan menu aktif, serta desain website yang responsif dalam satu halaman.
